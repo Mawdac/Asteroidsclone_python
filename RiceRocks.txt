@@ -1,4 +1,6 @@
-### RiceRocks v1.3 by Edward Reilly ###
+###               RiceRocks v1.3 by Edward Reilly             ###
+###                  Visit this link to play                  ###
+###     http://www.codeskulptor.org/#user40_YIwgpdrElX_0.py   ###
 
 
 # modules
